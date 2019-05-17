@@ -12,5 +12,7 @@ This is a js code to return the Hash with the digits you like at the end
 
 5. Also you can change your Hash type (line 38)
 
-
-#Created by Hossein Asmand
+<br>
+<br>
+<br>
+*created by Hossein Asmand*
